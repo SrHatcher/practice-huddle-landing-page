@@ -203,6 +203,12 @@ footer{
         width: 18rem;
 
     }
+
+    footer{
+        justify-content: flex-end;
+
+        padding-right: 10rem;
+    }
 }
 
 @media (hover:hover){
